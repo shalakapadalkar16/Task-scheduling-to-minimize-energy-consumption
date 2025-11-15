@@ -48,8 +48,9 @@ g++ taskscheduler.cpp -o taskscheduler
 ```
 
 ▶️ Run
+```bash
 ./taskscheduler
-
+```
 On Windows, you may run taskscheduler.exe directly.
 
 📊 Output
